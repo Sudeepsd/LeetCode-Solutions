@@ -26,4 +26,3 @@ string defangIPaddr(string address) {
     return result;
 }
 */
-
